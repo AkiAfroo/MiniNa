@@ -35,7 +35,7 @@ options=(1 "Upgrade your Machine" off    # any option can be set to default to "
          2 "Install Mina Repositories" off
          3 "Install Mina Dependencies libffi6,libjemalloc,libprocps6,etc." off
          4 "Install Mina-testnet-postake|Mina-generate-keypair" off          
-         5 "Download and Unzip your Keys.zip / Create a new keypairs from scratch" off
+         5 "Download and Unzip your from email or Create a new keypairs from scratch" off
          6 "BACKUP YOUR KEYS to $HOME/minabackups" off
          7 "Create a **.mina-env** and **.bashrc/.zshrc** Variables" off
          8 "Download Latest Mina Peers" off
