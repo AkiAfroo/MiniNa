@@ -1,5 +1,5 @@
 # MiniNa: Post-"TestWorld" ready to be used with or without PreGenerated Keys !
-* you must have a keypairs and password to full use this tool
+* now you can use MiniNa with or without pregenerated keys !
 * MiniNa is a deps Mina Protocol installer , made for Noobs by Noobs
 What the script do:
 [![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)]
