@@ -1,8 +1,8 @@
-# MiniNa: Ready to be used with Mina Protocol "TestWorld"
+# MiniNa: Post-"TestWorld" ready to be used with or without PreGenerated Keys !
 * you must have a keypairs and password to full use this tool
 * MiniNa is a deps Mina Protocol installer , made for Noobs by Noobs
 What the script do:
-[![Mina-Test-World.png](https://i.postimg.cc/ZKg87sWc/Mina-Test-World.png)](https://postimg.cc/fJcSkKjt)
+[![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)]
 
 Usage:
 * First download it ```wget https://raw.githubusercontent.com/AkiAfroo/MiniNa/main/minina.sh```
@@ -11,7 +11,7 @@ Usage:
 * the script will try to install dialog , zip , unzip if are not installed in your system before launch the menu.
 * Fresh install after menu pop up: select with mouse or moving with arrows and using spacebar
 * options : ```1,2,3,4,5,7,8```
-[![Mina-Test-World.png](https://i.postimg.cc/ZKg87sWc/Mina-Test-World.png)](https://postimg.cc/fJcSkKjt)
+[![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)]
 
 Backup:
 * you can backup your wallet >> option 6
