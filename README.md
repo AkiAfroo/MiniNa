@@ -15,16 +15,16 @@ Usage:
 
 Backup:
 * you can backup your wallet >> option 6
-[![MININA2-1-BACKUP.png](https://i.postimg.cc/NFCSmw52/MININA2-1-BACKUP.png)](https://postimg.cc/p58sM4QP)
+[![minina-backup.png](https://i.postimg.cc/MKshyWR6/minina-backup.png)]
 
 
 Removing Mina from your system
 * ~/.coda-config , keys folder and .mina-env are exclude >> option 9
-[![ksnip-20210103-151257.png](https://i.postimg.cc/PJ7VNzRm/ksnip-20210103-151257.png)](https://postimg.cc/1Vprj6Pt)
+[![minina-remove-deps.png](https://i.postimg.cc/zG7SLBR7/minina-remove-deps.png)]
 
 Removing temp directories and coda-config
 * when the daemon stuck sometimes a good option is clean tmp mina folders and ~/.coda-config folder
-[![ksnip-20210103-151323.png](https://i.postimg.cc/SK4TXKDt/ksnip-20210103-151323.png)](https://postimg.cc/v4PLkGRW)
+[![minina-remove-codafolder.png](https://i.postimg.cc/QdzCnZLs/minina-remove-codafolder.png)]
 
 Notes
 * the script will detect if a wallet is storage in ~/keys folder to avoid overwrite the current ones if you select option 5 my mistake.
