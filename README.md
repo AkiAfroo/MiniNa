@@ -2,7 +2,7 @@
 * now you can use MiniNa with or without pregenerated keys !
 * MiniNa is a deps Mina Protocol installer , made for Noobs by Noobs
 What the script do:
-[![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)]
+[![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)
 
 Usage:
 * First download it ```wget https://raw.githubusercontent.com/AkiAfroo/MiniNa/main/minina.sh```
