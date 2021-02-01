@@ -11,11 +11,11 @@ Usage:
 * the script will try to install dialog , zip , unzip if are not installed in your system before launch the menu.
 * Fresh install after menu pop up: select with mouse or moving with arrows and using spacebar
 * options : ```1,2,3,4,5,7,8```
-[![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)]
+[![minina-1.png](https://i.postimg.cc/26zbRF57/minina-1.png)
 
 Backup:
 * you can backup your wallet >> option 6
-[![minina-backup.png](https://i.postimg.cc/MKshyWR6/minina-backup.png)]
+[![minina-backup.png](https://i.postimg.cc/MKshyWR6/minina-backup.png)
 
 
 Removing Mina from your system
