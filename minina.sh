@@ -179,18 +179,10 @@ do
                 mv extra_fish_account_* my-wallet
                 rm new-keys.zip
                 ### some system complains if root use sudo xD
-                if [ "${UID}" -eq 0 ]
-                    then
-				    chown -R $USER  ~/keys
-				    chown -R $USER  ~/keys/my-wallet
-                else
-				    sudo chown -R $USER  ~/keys
-				    sudo chown -R $USER  ~/keys/my-wallet
-                fi
-				    sudo chown -R $USER  ~/keys
-				    sudo chown -R $USER  ~/keys/my-wallet
-				    chmod 700 ~/keys
-				    chmod 600 ~/keys/my-wallet
+		    chown -R $USER  ~/keys
+		    chown -R $USER  ~/keys/my-wallet
+         	    chmod 700 ~/keys
+		    chmod 600 ~/keys/my-wallet
                 echo ""
                 if [[ -e $HOME/keys/my-wallet && -e $HOME/keys/my-wallet.pub ]] ;then
                     echo "zip Downladed, extracted and permissions set to both files"
