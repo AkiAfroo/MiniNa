@@ -279,7 +279,8 @@ fi
             echo ""
             echo "Downloading Latest Peers.." ### >> dont need it anymore peers are public but works and its cool
             #wget -O ~/peers.txt https://raw.githubusercontent.com/MinaProtocol/coda-automation/bug-bounty-net/terraform/testnets/testworld/peers.txt
-	    wget -O ~/peers.txt https://raw.githubusercontent.com/MinaProtocol/mina/encore-peers/automation/terraform/testnets/encore/peers.txt
+	    #wget -O ~/peers.txt https://raw.githubusercontent.com/MinaProtocol/mina/encore-peers/automation/terraform/testnets/encore/peers.txt
+	    wget -O ~/peers.txt https://storage.googleapis.com/seed-lists/zenith_seeds.txt
             sleep 3
             clear
             echo ""
