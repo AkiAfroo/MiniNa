@@ -1,4 +1,4 @@
-# MiniNa: Post-"TestWorld" ready to be used with or without PreGenerated Keys !
+# MiniNa: Is not Ready for zenith Network. the code will be updated in couple of days.
 * now you can use MiniNa with or without pregenerated keys !
 * MiniNa is a deps Mina Protocol installer , made for Noobs by Noobs
 What the script do:
