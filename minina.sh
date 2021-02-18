@@ -254,7 +254,7 @@ do
 --passwordbox "Enter your Mina wallet password that will be storage in ~/.mina-env" 10 30 3>&1- 1>&2- 2>&3-)
 cat <<EOF >~/.mina-env
 CODA_PRIVKEY_PASS="${MINAPASS}"
-EXTRA_FLAGS="  -file-log-level Debug -work-selection seq -super-catchup "
+EXTRA_FLAGS="  -file-log-level Debug "
 EOF
            else
                 clear
@@ -265,7 +265,7 @@ EOF
                 read -s -p "Enter your Mina wallet password (from your email) that will be saved in ~/.mina-env: " MINAPASS  # >>> asking for your mina wallet password and add it to .mina-env in Home directory
 cat <<EOF >~/.mina-env
 CODA_PRIVKEY_PASS="${MINAPASS}"
-EXTRA_FLAGS="  -file-log-level Debug -work-selection seq -super-catchup "
+EXTRA_FLAGS="  -file-log-level Debug "
 EOF
                 ## >>> add variables to .bashrc or .zshrc depends of your terminal line 171-179
 echo "export CODA_PUBLIC_KEY=${MINAADRESS}" >> "${shell_profile}" 
