@@ -1,4 +1,4 @@
-# MiniNa: Is not Ready for zenith Network (Mina Protocol). the code will be updated in couple of days.
+# MiniNa: this Code was part of Mina protocol testnet.- please dont use it in mainnet.
 * now you can use MiniNa with or without pregenerated keys !
 * MiniNa is a deps Mina Protocol installer , made for Noobs by Noobs
 What the script do:
